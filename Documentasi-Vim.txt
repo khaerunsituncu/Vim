@@ -12,7 +12,7 @@ vim
 # untuk membuat file text dengan vim
 vim nama.format
 # untuk menyimpan tulisan di vim
-:w atau w nama.format :wq
+:w atau :w nama.format atau :wq
 # navigasi kursor
 h(kiri) j(bawah) k(atas) l(kanan)
 # untuk delete dan backspace
