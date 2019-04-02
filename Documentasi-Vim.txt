@@ -1,0 +1,21 @@
+# BELAJAR VIM
+# untuk masuk di vim ketik vim terminal
+vim
+# vim terbagi dua mode, mode normal dan mode insert 
+# mode normal untuk menyalakan kumpulan perintah yang tersedia
+# mode insert untuk menulis sesuatu ke dalam vim 
+# untuk masuk ke mode insert ketik i tanpa : (titik dua)
+# untuk kembali mode normal tekan Esc
+# Semua perintah vim di awali : (titik dua)
+# untuk keluar dari vim
+:q atau :quit atau :q!
+# untuk membuat file text dengan vim
+vim nama.format
+# untuk menyimpan tulisan di vim
+:w atau w nama.format :wq
+# navigasi kursor
+h(kiri) j(bawah) k(atas) l(kanan)
+# untuk delete dan backspace
+x dan shift+x
+
+
